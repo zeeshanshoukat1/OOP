@@ -1,6 +1,6 @@
 #include<iostream>
 #include<fstream>
-#include <bits/stdc++.h>
+#include <sstream>
 using namespace std;
 struct student{
 	string name;
